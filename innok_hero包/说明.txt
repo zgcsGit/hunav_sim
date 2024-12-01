@@ -1,0 +1,10 @@
+1.Innok_heros_description 是模型文件 launch 是在rviz中的可视化， 模型中应该是缺少两轮的差速配置。
+
+2.Innok_heros_bringup 是我尝试在gazebo中加载机器人模型，但是有不能显示的问题。
+
+
+Innok_heros的原版模型文件是indigo版本的。
+https://github.com/innokrobotics/innok_heros_description/tree/indigo  
+
+官方的仿真是gazebo7中完成的
+https://wiki.ros.org/innok_heros_gazebo/Tutorials/Simulating%20Innok%20Heros

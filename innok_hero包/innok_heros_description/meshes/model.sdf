@@ -1,0 +1,17 @@
+<model xmlns="http://gazebosim.org/schemas/model/1.0">
+  <name>my_model</name>
+  <static>false</static>
+  <link name="link">
+    <visual>
+      <geometry>
+        <mesh>
+          <uri>file://base_link.STL</uri>
+        </mesh>
+      </geometry>
+      <material>
+        <ambient>0.25 0.25 0.25 1</ambient>
+        <diffuse>0.25 0.25 0.25 1</diffuse>
+      </material>
+    </visual>
+  </link>
+</model>
